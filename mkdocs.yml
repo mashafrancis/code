@@ -1,16 +1,16 @@
 # Project information
-site_name: LeetCode Solutions
-site_description: LeetCode Solutions in C++, Java, and Python.
+site_name: Code
+site_description: LeetCode Solutions in C++, Javascript, and Rust.
 site_author: P.-Y. Chen
-site_url: https://walkccc.me/LeetCode
+site_url: https://mashafrancis.me/code
 
 # Repository
-repo_name: walkccc/LeetCode
-repo_url: https://github.com/walkccc/LeetCode
+repo_name: mashafrancis/code
+repo_url: https://github.com/mashafrancis/code
 edit_uri: ''
 
 # Copyright
-copyright: Copyright &copy; <a href="http://github.com/walkccc">P.-Y. Chen</a> 2019 - 2022
+copyright: Copyright &copy; <a href="http://github.com/mashafrancis">Francis Masha</a> 2022
 
 # Configuration
 theme:
@@ -51,14 +51,12 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-square
-      link: https://github.com/walkccc
+      link: https://github.com/mashafrancis
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/walkccc
-    - icon: material/book-open-page-variant
-      link: https://walkccc.me/CLRS
-  analytics:
-    provider: google
-    property: UA-117404761-3
+      link: https://www.linkedin.com/in/francis-masha
+  # analytics:
+  #   provider: google
+  #   property: UA-117404761-3
 
 extra_css:
   - css/katex.css
