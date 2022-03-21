@@ -1,9 +1,9 @@
 #!/bin/bash
 
-git clone https://github.com/walkccc/LeetCode.git
-cd LeetCode
-git clone -b mkdocs --single-branch https://github.com/walkccc/LeetCode.git mkdocs
-git clone -b scripts --single-branch https://github.com/walkccc/LeetCode.git scripts
+git clone https://github.com/mashafrancis/code.git
+cd code
+git clone -b mkdocs --single-branch https://github.com/mashafrancis/code.git mkdocs
+git clone -b scripts --single-branch https://github.com/mashafrancis/code.git scripts
 
 python3 scripts/main.py --mock
 
