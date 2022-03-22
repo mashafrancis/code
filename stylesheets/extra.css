@@ -1,0 +1,41 @@
+/** Ultra Light */
+@font-face {
+	font-family: 'HarmonyOS Sans';
+	font-weight: 100;
+	src: url(./HarmonySans/HarmonyOS_Sans_Light.ttf) format('tff');
+}
+
+/** Thin */
+@font-face {
+	font-family: 'HarmonyOS Sans';
+	font-weight: 200;
+	src: url(./HarmonySans/HarmonyOS_Sans_Thin.ttf) format('tff');
+}
+
+/** Regular */
+@font-face {
+	font-family: 'HarmonyOS Sans';
+	font-weight: 400;
+	src: url(./HarmonySans/HarmonyOS_Sans_Regular.ttf) format('tff');
+}
+
+/** Medium */
+@font-face {
+	font-family: 'HarmonyOS Sans';
+	font-weight: 500;
+	src: url(./HarmonySans/HarmonyOS_Sans_Medium.ttf) format('tff');
+}
+
+/** Semi Bold */
+@font-face {
+	font-family: 'HarmonyOS Sans';
+	font-weight: 600;
+	src: url(./HarmonySans/HarmonyOS_Sans_Bold.ttf) format('tff');
+}
+
+/** Bold */
+@font-face {
+	font-family: 'HarmonyOS Sans';
+	font-weight: 700;
+	src: url(./HarmonySans/HarmonyOS_Sans_Black.ttf) format('tff');
+}
