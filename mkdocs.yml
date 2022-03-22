@@ -2,7 +2,7 @@
 site_name: Code
 site_description: LeetCode Solutions in C++, Javascript, and Rust.
 site_author: P.-Y. Chen
-site_url: https://mashafrancis.me/code
+site_url: http://mashafrancis.github.io/code
 
 # Repository
 repo_name: mashafrancis/code
