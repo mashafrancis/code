@@ -39,14 +39,3 @@ Take a look at my nvim configuration related to auto formatting.
 - [`~/.config/nvim/lua/plugins.lua`](https://github.com/walkccc/nvim/blob/main/lua/plugins.lua):
 - [`~/.config/nvim/lua/plugins/null-ls.lua`](https://github.com/walkccc/nvim/blob/main/lua/plugins/null-ls.lua)
 
-## More Information
-
-Hosted on Feb 23, 2019.
-
-## License
-
-Licensed under the MIT License, Copyright © 2019-2022 [P.-Y. Chen](https://github.com/walkccc).
-
-<div align="center">
-  <sub>Assembled with ❤️ in New York.</sub>
-</div>
